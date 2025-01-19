@@ -1,0 +1,5 @@
+#include "handzilla.dtsi"
+
+&transform {
+    col-offset = <6>;
+};

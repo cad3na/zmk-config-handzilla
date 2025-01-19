@@ -1,0 +1,8 @@
+config SHIELD_HANDZILLA_LEFT
+    def_bool $(shields_list_contains,handzilla_left)
+
+config SHIELD_HANDZILLA_RIGHT
+    def_bool $(shields_list_contains,handzilla_right)
+
+config SHIELD_HANDZILLA_DONGLE
+    def_bool $(shields_list_contains,handzilla_dongle)

@@ -1,0 +1,12 @@
+file_format: "1"
+id: handzilla
+name: HANDZILLA
+type: shield
+url: https://github.com/cad3na/zmk-config-handzilla
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - handzilla_left
+  - handzilla_right
+  - handzilla_dongle
