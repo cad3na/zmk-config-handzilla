@@ -68,8 +68,8 @@
     &kp GRAVE  &kp N1       &kp N2       &kp N3         &kp N4       &kp N5           &kp N6      &kp N7    &kp N8      &kp N9    &kp N0       &kp ESC
     &kp FSLH   &kp Q        &kp W        &kp F          &kp P        &kp G            &kp J       &kp L     &kp U       &kp Y     &n_tilde     &kp BSPC
     &kp TAB    &kp A        &kp R        &kp S          &kp T        &kp D            &kp H       &kp N     &kp E       &kp I     &kp O        &kp DEL
-    &kp LSHFT  &kp Z        &kp X        &kp C          &kp V        &kp B            &kp K       &kp M     &kp COMMA   &kp DOT   &kp UNDER    &kp RSHFT
-               &kp LGUI     &kp LSHFT    &lt NAV SPACE  &kp LALT     &kp LCTRL        &kp RCTRL   &kp RALT  &lt SYM RET &kp RSHFT &kp RGUI >;
+    &kp LGUI   &kp Z        &kp X        &kp C          &kp V        &kp B            &kp K       &kp M     &kp COMMA   &kp DOT   &kp UNDER    &kp RGUI
+               &kp LALT     &kp LSHFT    &mo NAV        &kp SPACE    &kp LCTRL        &kp RCTRL   &kp RET   &mo SYM     &kp RSHFT &kp RALT >;
         };
 
         nav_layer {
